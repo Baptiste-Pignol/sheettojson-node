@@ -1,0 +1,22 @@
+{
+  "name": "sheettojson-api",
+  "version": "1.0.0",
+  "description": "Official Node.js SDK for the SheetToJSON RapidAPI. Turn Google Sheets into a secure CRUD backend.",
+  "main": "index.js",
+  "types": "index.d.ts", 
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google-sheets",
+    "api",
+    "rapidapi",
+    "json",
+    "crud",
+    "backend",
+    "database"
+  ],
+  "author": "QuiCreatDev",
+  "license": "MIT"
+}
